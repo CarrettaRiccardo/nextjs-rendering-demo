@@ -3,6 +3,7 @@
 To preview locally, you must:
 
 - `npm install`
+- Seed local db with `node scripts/seed-database.js`
 - `npm run build`
 - `npm run start`
 
